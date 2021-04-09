@@ -1,0 +1,113 @@
+{
+    "m_SelectedDeviceId": "1PASH9BHNM9212",
+    "m_SelectedPackage": {
+        "deviceId": "1PASH9BHNM9212",
+        "name": "com.viven.VR_XRToolKit",
+        "processId": 16991,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.oculus.shellenv",
+            "processId": 2431,
+            "exited": false
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 8728,
+            "exited": true
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 9074,
+            "exited": true
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 9361,
+            "exited": true
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 9716,
+            "exited": true
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 11936,
+            "exited": true
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 15321,
+            "exited": false
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 16991,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

@@ -3,29 +3,11 @@
     "m_SelectedPackage": {
         "deviceId": "1PASH9BHNM9212",
         "name": "com.viven.VR_XRToolKit",
-        "processId": 16991,
+        "processId": 5486,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "1PASH9BHNM9212",
-            "name": "com.oculus.shellenv",
-            "processId": 2431,
-            "exited": false
-        },
-        {
-            "deviceId": "1PASH9BHNM9212",
-            "name": "com.viven.VR_XRToolKit",
-            "processId": 8728,
-            "exited": true
-        },
-        {
-            "deviceId": "1PASH9BHNM9212",
-            "name": "com.viven.VR_XRToolKit",
-            "processId": 9074,
-            "exited": true
-        },
         {
             "deviceId": "1PASH9BHNM9212",
             "name": "com.viven.VR_XRToolKit",
@@ -48,12 +30,24 @@
             "deviceId": "1PASH9BHNM9212",
             "name": "com.viven.VR_XRToolKit",
             "processId": 15321,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "1PASH9BHNM9212",
             "name": "com.viven.VR_XRToolKit",
             "processId": 16991,
+            "exited": true
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.oculus.shellenv",
+            "processId": 2481,
+            "exited": false
+        },
+        {
+            "deviceId": "1PASH9BHNM9212",
+            "name": "com.viven.VR_XRToolKit",
+            "processId": 5486,
             "exited": false
         }
     ],
